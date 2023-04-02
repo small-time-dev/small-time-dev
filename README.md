@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CurtisLMartin
-- 👀 I’m interested in science (computer science, "hard" sciences, life sciences, all science really), humans and relationships, history and more!
-- 🌱 I’m currently learning computer science following the OSSU framework.
-- 💞️ I’m looking to collaborate on small projects that will enable me to learn more!
+- 👁️ I am a director and support worker at Care Culture
+- 👀 I am constantly learning and building systems within Care Culture to ensure we fly into the future
+- 🌱 I’m deeply interested all sciences, humans and relationships, history and more!
 - 📫 Reach me here!
 
 <!---
