@@ -1,11 +1,11 @@
 👋 Hi, I’m Curtis.
-<br>
-👁️ I am a Director and Support Worker at Care Culture
+<br><br>
+👁️ I am a Director and Support Worker at Care Culture <br>
 🚀 I am building systems within Care Culture to ensure we fly into the future
-<br>
-🌱 I’m deeply interested learning, sciences, humans and relationships, and the world.
+<br><br>
+🌱 I’m deeply interested learning, sciences, humans and relationships, and the world.<br>
 📫 Reach me here!
-<br>
+<br><br>
 Be a multiplier.
 
 <!---
