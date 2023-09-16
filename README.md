@@ -12,17 +12,3 @@ Currently building skills
 🫥 @Jsdcos
 🫥 Typescript
 🫥 Node.js
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
-🫥 
